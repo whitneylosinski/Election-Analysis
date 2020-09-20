@@ -3,10 +3,10 @@
 ## Overview of Election Audit
 An employee from the Colorado Board of Elections requested an election audit in tabular results for a US congressional precinct in Colorado to certify the results of the election.  The employee specifically asked for the following data:
 
-  1.) Total number of votes cast
-  2.) Total number of votes each candidate received
-  3.) Percentage of votes each candidate won
-  4.) Winner of the election based on popular vote.
+1.) Total number of votes cast<br />
+2.) Total number of votes each candidate received<br />
+3.) Percentage of votes each candidate won<br />
+4.) Winner of the election based on popular vote
 
 ## Resources
 - Data source: election_results.csv
