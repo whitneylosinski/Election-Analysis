@@ -82,7 +82,8 @@ Once the data was gathered and tallied, the output values were pulled from the d
         # Calculate the percent of total votes for the county.
         county_vote_percentage = float(county_vote_count) / float(total_votes) * 100
         # Print the county results to the terminal.
-        county_results = (f"{county_name}: {county_vote_percentage:.1f}% ({county_vote_count:,})\n")
+        county_results = (f"{county_name}: 
+             {county_vote_percentage:.1f}% ({county_vote_count:,})\n")
         print(county_results)
         # Save the county votes to the text file.
         txt_file.write(county_results)
